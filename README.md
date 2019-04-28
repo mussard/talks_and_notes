@@ -1,3 +1,11 @@
+# Content
+
+You will find all **talks**, **notes** and **posters** I produced during my successive academic jobs.
+
+The pdf are provided and content can be re-used with citation.
+
+This, and more, is also available on [my website](https://mussard.github.io/)
+
 # Talks
 
 23.**A pedagogical introduction to the “SHCI” algorithm**  
@@ -81,7 +89,7 @@
 12.**Range-Separated Random Phase Approximations.**  
  General meeting of the GdR ''CORREL''  
  Marseille, France, 2015
- ([link](http://gdrcorelec.ups-tlse.fr/index.php?title:Réunion_GDR_2015))  
+ ([link](http://gdrcorelec.ups-tlse.fr/index.php?title:R&#233;union_GDR_2015))  
  --[get the pdf](doc/talk_201507.pdf)
 
 11.**Range-Separated Random Phase Approximations.**  
