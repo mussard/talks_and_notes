@@ -8,6 +8,12 @@ This, and more, is also available on [my website](https://mussard.github.io/)
 
 # Talks
 
+24.**Range-separation and basis sets.**  
+ (Seminar) Super-group meeting  
+ Department of Chemistry, University of Colorado at Boulder, USA, 2019
+ ([link](http://www.colorado.edu/lab/sharmagroup/))  
+ --[get the pdf](doc/talk_201904.pdf)
+
 23.**A pedagogical introduction to the “SHCI” algorithm**  
  (Seminar) Super-group meeting  
  Department of Chemistry and Biochemistry, University of Colorado at Boulder, USA, 2017
